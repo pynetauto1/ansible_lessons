@@ -1,4 +1,0 @@
-This is line 1 of testfile01.txt.
-THIS IS LINE 2 of testfile01.txt.
-THIS IS LINE 3 of testfile01.txt.
-
